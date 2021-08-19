@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on https://sandbad.io, https://podingo.com, ...
+- 🔭 I’m currently working on several project I'll notice them later :)
 - 🌱 I’m currently learning Deep Python, Reverse Engineering, Python Frameworks and their benefits
 - 🤔 I’m Searching for Streaming Encrypted Video/ Music methods
 - 📫 How to reach me: <a href="https://instagram.com/Ali_Rn_">Instagram</a>, <a href="https://telegram.me/Al1_Rn">Telegram</a>, 
