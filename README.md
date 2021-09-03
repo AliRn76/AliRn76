@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Deep Python, Reverse Engineering, Python Frameworks And Their Benefits**
 
-- 📫 How to reach me **alirn76@yahoo.com**
+- 📫 How to reach me **AliRn76@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
