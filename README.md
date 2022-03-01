@@ -3,9 +3,10 @@
 <!-- <h3 align="center">A Backend Developer From Iran :)</h3> -->
 
 
-- 🔭 I’m currently working on [Sandbad](https://app.sandbad.io), [Podingo](https://podingo.com), [ReVPN](https://play.google.com/store/apps/details?id=tech.revision.revpn)
+- 🔭 I’m currently working on [Rubika](https://rubika.ir), [Shad](https://shad.ir), new custom **Python Framework** & a new **online multiplayer Game** :)
+<!-- - 🔭 I’m currently working on [Sandbad](https://app.sandbad.io), [Podingo](https://podingo.com), [ReVPN](https://play.google.com/store/apps/details?id=tech.revision.revpn) -->
 
-- 🌱 I’m currently learning **Deep Python, Reverse Engineering, Python Frameworks And Their Benefits**
+- 🌱 I’m currently learning **Advanced Python, Web Security, Python Frameworks And Their Benefits**
 
 - 📫 How to reach me **AliRn76@yahoo.com**
 
