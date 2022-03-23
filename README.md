@@ -15,7 +15,7 @@
 <a href="https://stackoverflow.com/users/11318161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11318161" height="30" width="40" /></a>
 <a href="https://telegram.me/Al1_Rn" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/551257352133672964/883288904638275664/telegram.png" alt="ali_rn_" height="30" width="30" /></a>
 <a href="https://instagram.com/Ali_Rn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali_rn_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ali-rajab-nezhad-a16b73211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-rajab-nezhad-a16b73211" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alirn76/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-rajab-nezhad-a16b73211" height="30" width="40" /></a>
 <a href="https://hub.docker.com/u/alirn76" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="ali_rn_" height="40" width="40" /></a>
 </p>
 
