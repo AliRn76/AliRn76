@@ -3,7 +3,7 @@
 <!-- <h3 align="center">A Backend Developer From Iran :)</h3> -->
 
 
-- 🔭 I’m currently working on [Rubika](https://rubika.ir), [Shad](https://shad.ir), [Panther](https://pypi.org/project/panther/) & a new **online multiplayer Game** :)
+- 🔭 I’m currently working on [Rubika](https://rubika.ir), [Panther](https://pypi.org/project/panther/) & a new **online multiplayer Game** :)
 
 & my previous projects: [Sandbad](https://sandbad.io), [Podingo](https://podingo.com), [ReVPN](https://play.google.com/store/apps/details?id=tech.revision.revpn), ...
 
