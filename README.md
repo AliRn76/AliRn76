@@ -1,4 +1,4 @@
-<h1>Hi 👋, They Call Me Ali Rn
+<h1>Hi 👋, I'm Ali
 <img align="right" src="https://komarev.com/ghpvc/?username=alirn76&label=Profile%20views&color=0e75b6&style=flat" alt="alirn76" /></h1>
 <!-- <h3 align="center">A Backend Developer From Iran :)</h3> -->
 
